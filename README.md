@@ -3,7 +3,7 @@ Simple Console app demonstrating how to use the Code Interpreter tool to create 
 
 # Settings
 
-You can adjust where the  file, the file type, and prompt.
+You can adjust the  file, the file type, and prompt.
 
 ```json
 {
