@@ -8,11 +8,14 @@ You can adjust where the  file, the file type, and prompt.
 ```json
 {
    "AZURE_OPENAI_ENDPOINT": "",
-  "AZURE_OPENAI_API_KEY": "",
-  "AZURE_OPENAI_DEPLOYED_MODEL": "gpt-4o",
-  "FilePath": "C:\\temp\\Test.PNG",
-  "AZURE_OPENAI_INSTRUCTIONS": "You are an AI assistant. You will create files of my choosing.",
-  "AZURE_OPENAI_ASSISTANT_NAME": "File Creator",
-  "AZURE_OPENAI_PROMPT": "Create a PIE chart with the following data: 1,2,3,4,5 to a PNG file. Use blue, green, and purple as colors."
+   "AZURE_OPENAI_API_KEY": "",
+   "AZURE_OPENAI_DEPLOYED_MODEL": "gpt-4o",
+   "FilePath": "C:\\temp\\Test.PNG",
+   "AZURE_OPENAI_INSTRUCTIONS": "You are an AI assistant. You will create files of my choosing.",
+   "AZURE_OPENAI_ASSISTANT_NAME": "File Creator",
+   "AZURE_OPENAI_PROMPT": "Create a PIE chart with the following data: 1,2,3,4,5 to a PNG file. Use blue, green, and purple as colors."
 }
 ```
+## Reference Documenation
+
+[Azure OpenAI Assistants]([https://learn.microsoft.com/en-us/rest/api/virtualnetwork/virtual-network-peerings/create-or-update?view=rest-virtualnetwork-2023-09-01&tabs=dotnet#sync-peering](https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?tabs=command-line%2Ctypescript&pivots=programming-language-studio)
