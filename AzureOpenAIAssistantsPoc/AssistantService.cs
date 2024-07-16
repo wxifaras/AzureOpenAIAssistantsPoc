@@ -4,7 +4,6 @@ using Microsoft.Extensions.Configuration;
 
 namespace AssistantsSdkPoc
 {
-
     public class AssistantService
     {
         private string _endPoint;
