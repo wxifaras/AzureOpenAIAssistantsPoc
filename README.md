@@ -18,4 +18,4 @@ You can adjust where the  file, the file type, and prompt.
 ```
 ## Reference Documenation
 
-[Azure OpenAI Assistants]([https://learn.microsoft.com/en-us/rest/api/virtualnetwork/virtual-network-peerings/create-or-update?view=rest-virtualnetwork-2023-09-01&tabs=dotnet#sync-peering](https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?tabs=command-line%2Ctypescript&pivots=programming-language-studio)
+[Azure OpenAI Assistants](https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?tabs=command-line%2Ctypescript&pivots=programming-language-studio)
